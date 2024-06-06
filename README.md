@@ -1,8 +1,12 @@
-# React + Vite
+#Туристическое агентство: интерактивная страница для бронирования туров
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Функционал: 
+1. Веб-приложение должно имеет возможность регистрации и  аутентификации пользователей;
+2. Доступен просмотр актуальных туров для всех пользователей приложения с возможностью фильтрации по разным городам;
+3. Возможность бронирования тура для авторизованных пользователей;
+4. У каждого авторизованного пользователя есть доступ в личный кабинет со списком забронированных туров и информацией о пользователе;
+5. Доступен поиск бронирования по номеру, а также удаление бронирования;
+6. Возможность добавления, удаления и изменение туров для администратора;
+7. Возможность просмотра таблицы бронирований всех пользователей с возможностью удаления для администратора.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Ссылка на проект: http://95.174.94.234
